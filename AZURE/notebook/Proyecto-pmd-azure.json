@@ -299,6 +299,13 @@
 				"execution_count": 18
 			},
 			{
+				"cell_type": "markdown",
+				"source": [
+					"## GBM (no funciona)\n",
+					""
+				]
+			},
+			{
 				"cell_type": "code",
 				"source": [
 					"import xgboost as xgb"
